@@ -1,3 +1,9 @@
+ahora se puede hacer el commit porque la carpeta no está vacia, se agrego el archivo 'respuesta.txt'
+
 María de los ángeles Vargas Reales 
 19 
 Aprender la sintaxis de java, mejorar las habilidades de programación actuales y desarrollar nuevas.
+
+hay que tener cuidado al modificar un mismo archivo desde distintas ubicaciones porque al modificar 
+mismas líneas de un archivo con información diferente Git no puede fusionar automáticamente esos cambios. 
+también puede pasar que se sobrescriba sobre los cambios de otros y se pierdan datos.
